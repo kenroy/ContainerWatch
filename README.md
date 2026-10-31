@@ -127,3 +127,7 @@ Icons are fetched once and cached in `~/Library/Caches/ContainerWatch/icons`. Of
 - Only running containers are listed.
 - The app can pull images but doesn't restart containers, because it can't know how your containers were launched.
 - Version checks assume tags follow a numeric pattern. Unusual tag schemes fall back to digest comparison or may not be detected.
+
+## License
+
+MIT. See [LICENSE](LICENSE). © 2026 Kenroy Harrison.
